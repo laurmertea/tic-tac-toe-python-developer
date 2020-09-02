@@ -17,3 +17,10 @@
 # X O X
 # O X O
 # X X O
+
+battlefield = """
+X O X
+O X O
+X X O
+"""
+print(battlefield)
