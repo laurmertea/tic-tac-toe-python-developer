@@ -9,3 +9,6 @@ After finishing this project, you'll get to know a lot about planning and develo
 
 ###  Stage 1/5: Welcome to the battlefield!
 To start things off, the program needs to be able to print any state of the field. You’ll write a serious multi-line program using a lot of prints.
+
+### Stage 2/5: The user is the gamemaster
+Now it’s time to analyze user input and print the state of the field depending on it. You’ll learn to address specific positions in a string to achieve the required outcome.
