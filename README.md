@@ -12,3 +12,6 @@ To start things off, the program needs to be able to print any state of the fiel
 
 ### Stage 2/5: The user is the gamemaster
 Now it’s time to analyze user input and print the state of the field depending on it. You’ll learn to address specific positions in a string to achieve the required outcome.
+
+### Stage 3/5: What's up on the field?
+Now we’re going to write a fully-functioning multi-line program that responds to the user’s actions and analyzes the state of the field. Not only will it tell you who is winning, but it will also determine if the situation on a given field is theoretically possible!
