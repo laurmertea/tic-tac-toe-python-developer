@@ -39,3 +39,26 @@
 # | _ _ X |
 # | _ _ _ |
 # ---------
+
+def margins(pattern = None):
+    if pattern is None:
+        return "---------"
+    return pattern
+
+def line(part, separator = " ", wall = "|"):
+    line = wall + separator
+    for elem in part:
+        line += elem + separator
+    return line + wall
+
+def battlefield(symbols, size = 3, inline = None):
+    if inline is not True:
+        ending = "\n"
+    battlefield = margins() + ending
+    parts = [symbols[i:i+size] for i in range(0, len(symbols), size)]
+    for part in parts:
+        battlefield += line(part) + ending
+    battlefield += margins()
+    return battlefield
+
+print(battlefield(input()))
