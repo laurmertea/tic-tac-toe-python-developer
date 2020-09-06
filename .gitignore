@@ -133,3 +133,6 @@ dmypy.json
 
 # Notes
 notes.md
+
+# Tests
+test.py
