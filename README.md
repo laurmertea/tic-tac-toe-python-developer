@@ -15,3 +15,6 @@ Now it’s time to analyze user input and print the state of the field depending
 
 ### Stage 3/5: What's up on the field?
 Now we’re going to write a fully-functioning multi-line program that responds to the user’s actions and analyzes the state of the field. Not only will it tell you who is winning, but it will also determine if the situation on a given field is theoretically possible!
+
+### Stage 4/5: First move!
+Tic-tac-toe is not all about analysis – a game is meant to be played! Write a program that can change the state of the field, as your first real step toward a fully-functioning game application!
