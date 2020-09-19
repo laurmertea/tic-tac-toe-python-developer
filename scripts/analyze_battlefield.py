@@ -240,4 +240,5 @@ def battlefield(symbols, size = 3, inline = None):
     print(battlefield)
     print(analyze(symbols))
 
-battlefield(input())
+cells = input("Enter cells: \n")
+battlefield(cells)
