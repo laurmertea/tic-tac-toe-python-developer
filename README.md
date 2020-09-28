@@ -18,3 +18,6 @@ Now we’re going to write a fully-functioning multi-line program that responds 
 
 ### Stage 4/5: First move!
 Tic-tac-toe is not all about analysis – a game is meant to be played! Write a program that can change the state of the field, as your first real step toward a fully-functioning game application!
+
+### Stage 5/5: Fight!
+Finally! Thanks to this app, you can always challenge a friend to play a quick game of Tic-Tac-Toe!
